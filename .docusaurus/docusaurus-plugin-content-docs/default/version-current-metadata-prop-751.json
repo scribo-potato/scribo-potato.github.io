@@ -10,12 +10,6 @@
   "docsSidebars": {
     "tutorialSidebar": [
       {
-        "type": "link",
-        "label": "Tutorial Intro",
-        "href": "/docs/intro",
-        "docId": "intro"
-      },
-      {
         "type": "category",
         "label": "Tutorial - Basics",
         "collapsible": true,
@@ -80,13 +74,19 @@
           }
         ],
         "href": "/docs/category/tutorial---extras"
+      },
+      {
+        "type": "link",
+        "label": "Test Alin..asdfl",
+        "href": "/docs/intro",
+        "docId": "intro"
       }
     ]
   },
   "docs": {
     "intro": {
       "id": "intro",
-      "title": "Tutorial Intro",
+      "title": "Test Alin..asdfl",
       "description": "Let's discover Docusaurus in less than 5 minutes.",
       "sidebar": "tutorialSidebar"
     },
