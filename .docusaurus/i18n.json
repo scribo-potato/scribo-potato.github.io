@@ -1,17 +1,17 @@
 {
-  "defaultLocale": "en",
+  "defaultLocale": "nl",
   "locales": [
-    "en"
+    "nl"
   ],
   "path": "i18n",
-  "currentLocale": "en",
+  "currentLocale": "nl",
   "localeConfigs": {
-    "en": {
-      "label": "English",
+    "nl": {
+      "label": "Nederlands",
       "direction": "ltr",
-      "htmlLang": "en",
+      "htmlLang": "nl",
       "calendar": "gregory",
-      "path": "en"
+      "path": "nl"
     }
   }
 }

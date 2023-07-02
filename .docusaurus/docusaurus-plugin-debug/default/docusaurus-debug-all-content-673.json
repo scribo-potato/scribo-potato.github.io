@@ -12,12 +12,12 @@
           "path": "/docs",
           "tagsPath": "/docs/tags",
           "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs",
-          "editUrlLocalized": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/i18n/en/docusaurus-plugin-content-docs/current",
+          "editUrlLocalized": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/i18n/nl/docusaurus-plugin-content-docs/current",
           "isLast": true,
           "routePriority": -1,
           "sidebarFilePath": "/Users/nerdstudio/Documents/GitHub/scribo-potato.github.io/sidebars.js",
           "contentPath": "/Users/nerdstudio/Documents/GitHub/scribo-potato.github.io/docs",
-          "contentPathLocalized": "/Users/nerdstudio/Documents/GitHub/scribo-potato.github.io/i18n/en/docusaurus-plugin-content-docs/current",
+          "contentPathLocalized": "/Users/nerdstudio/Documents/GitHub/scribo-potato.github.io/i18n/nl/docusaurus-plugin-content-docs/current",
           "docs": [
             {
               "unversionedId": "intro",
@@ -339,12 +339,11 @@
           "id": "hetschoppendekind",
           "metadata": {
             "permalink": "/blog/hetschoppendekind",
-            "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2023-07-02-het-schoppende-kind/index.md",
             "source": "@site/blog/2023-07-02-het-schoppende-kind/index.md",
             "title": "Het schoppende kind",
             "description": "Rond 1200 waren er kinderen van ongeveer 4 tot 7 jaar die een beetje raar zjn. Ze schopten namelijk tegen de deuren van een beetje alle toiletten. Het gebeurde in Designer Outlet Roermond. In de toiletten van La Place zat ik lekker te schijten op de wc. Maar niet zo lang er werd namelijk opeens op de deur geschopt.",
             "date": "2023-07-02T00:00:00.000Z",
-            "formattedDate": "July 2, 2023",
+            "formattedDate": "2 juli 2023",
             "tags": [
               {
                 "label": "hetschoppendekind",

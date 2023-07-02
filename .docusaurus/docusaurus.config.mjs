@@ -6,17 +6,17 @@
 export default {
   "title": "Scribo-Potato",
   "tagline": "Het wekelijkse journaal 😁 📰",
-  "favicon": "img/favicon.ico",
-  "url": "https://your-docusaurus-test-site.com",
+  "favicon": "img/scribo-potato.png",
+  "url": "https://scribo-potato.github.io",
   "baseUrl": "/",
   "organizationName": "scribo-potato",
   "projectName": "scribo-potato.github.io",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "i18n": {
-    "defaultLocale": "en",
+    "defaultLocale": "nl",
     "locales": [
-      "en"
+      "nl"
     ],
     "path": "i18n",
     "localeConfigs": {}
@@ -30,8 +30,7 @@ export default {
           "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
         },
         "blog": {
-          "showReadingTime": true,
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
+          "showReadingTime": true
         },
         "theme": {
           "customCss": "/Users/nerdstudio/Documents/GitHub/scribo-potato.github.io/src/css/custom.css"
@@ -45,7 +44,7 @@ export default {
       "title": "Scribo-Potato",
       "logo": {
         "alt": "My Site Logo",
-        "src": "img/logo.svg"
+        "src": "img/scribo-potato.png"
       },
       "items": [
         {
