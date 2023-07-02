@@ -4,13 +4,13 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "Scribo Potato",
+  "title": "Scribo-Potato",
   "tagline": "Het wekelijkse journaal 😁 📰",
   "favicon": "img/favicon.ico",
   "url": "https://your-docusaurus-test-site.com",
   "baseUrl": "/",
-  "organizationName": "facebook",
-  "projectName": "docusaurus",
+  "organizationName": "scribo-potato",
+  "projectName": "scribo-potato.github.io",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "i18n": {
@@ -42,7 +42,7 @@ export default {
   "themeConfig": {
     "image": "img/docusaurus-social-card.jpg",
     "navbar": {
-      "title": "Scribo Potato",
+      "title": "Scribo-Potato",
       "logo": {
         "alt": "My Site Logo",
         "src": "img/logo.svg"
