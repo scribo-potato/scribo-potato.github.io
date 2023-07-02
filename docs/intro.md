@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-# Test Alin..asdfl
+# Introduction
 
 Let's discover **Docusaurus in less than 5 minutes**.
 

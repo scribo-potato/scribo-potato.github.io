@@ -77,7 +77,7 @@
       },
       {
         "type": "link",
-        "label": "Test Alin..asdfl",
+        "label": "Introduction",
         "href": "/docs/intro",
         "docId": "intro"
       }
@@ -86,7 +86,7 @@
   "docs": {
     "intro": {
       "id": "intro",
-      "title": "Test Alin..asdfl",
+      "title": "Introduction",
       "description": "Let's discover Docusaurus in less than 5 minutes.",
       "sidebar": "tutorialSidebar"
     },

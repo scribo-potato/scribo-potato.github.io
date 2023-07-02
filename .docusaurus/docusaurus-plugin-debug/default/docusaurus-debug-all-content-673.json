@@ -22,7 +22,7 @@
             {
               "unversionedId": "intro",
               "id": "intro",
-              "title": "Test Alin..asdfl",
+              "title": "Introduction",
               "description": "Let's discover Docusaurus in less than 5 minutes.",
               "source": "@site/docs/intro.md",
               "sourceDirName": ".",
@@ -254,7 +254,7 @@
                 "permalink": "/docs/tutorial-extras/manage-docs-versions"
               },
               "next": {
-                "title": "Test Alin..asdfl",
+                "title": "Introduction",
                 "permalink": "/docs/intro"
               }
             }
