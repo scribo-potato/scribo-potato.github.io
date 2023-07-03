@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkscribo_potato_github_io=self.webpackChunkscribo_potato_github_io||[]).push([[640],{9964:e=>{e.exports=JSON.parse('{"label":"hetschoppendekind","permalink":"/tags/hetschoppendekind","allTagsPath":"/tags","count":1}')}}]);
