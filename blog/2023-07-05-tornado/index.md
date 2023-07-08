@@ -2,7 +2,7 @@
 slug: tornado
 title: Tornado
 authors: [fred]
-tags: [tornado]
+tags: [tornado, weer]
 ---
 
 Het gebeurde op een basisschool. Van 08:00 tot wel 14:00. Toen het daar pauze was, was er een hele harde wind. Het was wel opeens en dat was eigenlijk heel raar. Gisteren was er bijna geen wind. Ik ben benieuwd, wat denken jullie lezers? Klimaatverandering? Of was het gewoon toeval? 
