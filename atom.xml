@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://scribo-potato.github.io/</id>
     <title>Scribo Potato Blog</title>
-    <updated>2023-07-02T00:00:00.000Z</updated>
+    <updated>2023-07-05T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://scribo-potato.github.io/"/>
     <subtitle>Scribo Potato Blog</subtitle>
     <icon>https://scribo-potato.github.io/img/scribo-potato.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Tornado]]></title>
+        <id>https://scribo-potato.github.io/tornado</id>
+        <link href="https://scribo-potato.github.io/tornado"/>
+        <updated>2023-07-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Het gebeurde op een basisschool. Van 0800. Toen het daar pauze was, was er een hele harde wind. Het was wel opeens en dat was eigenlijk heel raar. Gisteren was er bijna geen wind. Ik ben benieuwd, wat denken jullie lezers? Klimaatverandering? Of was het gewoon toeval?]]></summary>
+        <content type="html"><![CDATA[<p>Het gebeurde op een basisschool. Van 08:00 tot wel 14:00. Toen het daar pauze was, was er een hele harde wind. Het was wel opeens en dat was eigenlijk heel raar. Gisteren was er bijna geen wind. Ik ben benieuwd, wat denken jullie lezers? Klimaatverandering? Of was het gewoon toeval? </p><p><img loading="lazy" alt="Tornado - Copyright 2023 Scribo Potato" src="/assets/images/tornado-eeed138779529ead557b9c25f1d3005d.png" width="2157" height="1294" class="img_ev3q"></p><h3 class="anchor anchorWithStickyNavbar_LWe7" id="zeldzaam">Zeldzaam<a href="#zeldzaam" class="hash-link" aria-label="Direct link naar Zeldzaam" title="Direct link naar Zeldzaam">​</a></h3><p>Nou, ik zeg altijd toeval bestaat niet. Misschien is het iets anders, gewoon niets ergs! Maar misschien ook niet, misschien is het iets heel ergs. In Eindhoven zijn er namelijk bijna geen tornado's, eentje is heel zeldzaam. Dit was nog vandaag gebeurd en het is heel erg. Het waaide namelijk heel erg hard vandaag om 08:20.</p><h3 class="anchor anchorWithStickyNavbar_LWe7" id="gevaarlijk">Gevaarlijk<a href="#gevaarlijk" class="hash-link" aria-label="Direct link naar Gevaarlijk" title="Direct link naar Gevaarlijk">​</a></h3><p>Het waaide heel erg hard vandaag. In Noord-Holland, Friesland, Flevoland en het IJsselmeergebied gold daarom lange tijd code rood. Dat betekent dat het buiten gevaarlijk kan zijn en dat er schade kan ontstaan. </p><h3 class="anchor anchorWithStickyNavbar_LWe7" id="de-schade">De schade<a href="#de-schade" class="hash-link" aria-label="Direct link naar De schade" title="Direct link naar De schade">​</a></h3><p>In de provincie Noord-Holland kon je het beste binnenblijven. Er konden windstoten komen van 100 tot 140 kilometer per uur. In Haarlem is een vrouw van 51 overleden nadat er een boom op haar auto viel. Inmiddels is code rood weer ingetrokken. De storm is naar het zuidwesten van Friesland getrokken, en lijkt in kracht af te nemen.Het heeft de naam Poly gekregen. Door de wind braken bomen en takken af. Ook kantelden op sommige plekken vrachtwagens, bussen en caravans. De snelweg A9 was een tijd dicht, omdat er een boom op de weg was gevallen.</p><h3 class="anchor anchorWithStickyNavbar_LWe7" id="help-bij-een-tornado">Help bij een tornado<a href="#help-bij-een-tornado" class="hash-link" aria-label="Direct link naar Help bij een tornado" title="Direct link naar Help bij een tornado">​</a></h3><p>Ga schuilen in een gebouw. Blijf in kleine ruimtes, bijvoorbeeld een wc. Want er kunnen dingen tegen je aan worden gelanceerd. Bijvoorbeeld als er een klein hoopje zand heel hard tegen je aan komt doet dat best wel veel pijn. En blijf natuurlijk zo laag mogelijk in het gebouw.</p>]]></content>
+        <author>
+            <name>Fred Henk</name>
+            <uri>https://scribo-potato.github.io</uri>
+        </author>
+        <category label="tornado" term="tornado"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Het schoppende kind]]></title>
         <id>https://scribo-potato.github.io/hetschoppendekind</id>
