@@ -2,11 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://scribo-potato.github.io/</id>
     <title>Scribo Potato Blog</title>
-    <updated>2023-07-05T00:00:00.000Z</updated>
+    <updated>2023-07-08T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://scribo-potato.github.io/"/>
     <subtitle>Scribo Potato Blog</subtitle>
     <icon>https://scribo-potato.github.io/img/scribo-potato.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Hollandse sashimi]]></title>
+        <id>https://scribo-potato.github.io/hollandsesashimi</id>
+        <link href="https://scribo-potato.github.io/hollandsesashimi"/>
+        <updated>2023-07-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[De nieuwe haring is heel lekker Tip: je moet eerst de haring zelf zonder uien proberen, dan proef je ook ECHT de smaak van de haring. Het lijkt een klein beetje op sashimi voor de mensen die niet weten wat sashimi is. Sashimi is iets rauw eten met saus of gewoon zonder.]]></summary>
+        <content type="html"><![CDATA[<p>De nieuwe haring is heel lekker Tip: je moet eerst de haring zelf zonder uien proberen, dan proef je ook ECHT de smaak van de haring. Het lijkt een klein beetje op sashimi voor de mensen die niet weten wat sashimi is. Sashimi is iets rauw eten met saus of gewoon zonder.
+<img loading="lazy" alt="haring eten - Copyright 2023 Scribo Potato" src="/assets/images/haring-eten-008a0671b9a9ba3dcf1ac73e0efd3323.png" width="2388" height="1433" class="img_ev3q"></p><h3 class="anchor anchorWithStickyNavbar_LWe7" id="waar">Waar?<a href="#waar" class="hash-link" aria-label="Direct link naar Waar?" title="Direct link naar Waar?">​</a></h3><p>De winkel ligt in Waalre Aalst, de winkel heet <a href="https://zwarthoedviswinkel.nl/" target="_blank" rel="noopener noreferrer">Zwarthoed Viswinkel</a>. Hele aardige medewerkers, en het eten is overheerlijk! </p><h3 class="anchor anchorWithStickyNavbar_LWe7" id="aanrader">Aanrader<a href="#aanrader" class="hash-link" aria-label="Direct link naar Aanrader" title="Direct link naar Aanrader">​</a></h3><p>Het eten is echt een aanradertje en vooral door het eten maar ook door de lieve mensen daar natuurlijk. De kibbeling is lekker krokant en niet te zoutig.</p>]]></content>
+        <author>
+            <name>Fred Henk</name>
+            <uri>https://scribo-potato.github.io</uri>
+        </author>
+        <category label="haring" term="haring"/>
+        <category label="eten" term="eten"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tornado]]></title>
         <id>https://scribo-potato.github.io/tornado</id>
@@ -19,6 +34,7 @@
             <uri>https://scribo-potato.github.io</uri>
         </author>
         <category label="tornado" term="tornado"/>
+        <category label="weer" term="weer"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Het schoppende kind]]></title>

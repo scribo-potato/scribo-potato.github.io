@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkscribo_potato_github_io=self.webpackChunkscribo_potato_github_io||[]).push([[278],{8413:o=>{o.exports=JSON.parse('{"permalink":"/tags/weer","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
