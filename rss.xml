@@ -4,10 +4,21 @@
         <title>Scribo Potato Blog</title>
         <link>https://scribo-potato.github.io/</link>
         <description>Scribo Potato Blog</description>
-        <lastBuildDate>Sat, 08 Jul 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jul 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>nl</language>
+        <item>
+            <title><![CDATA[Groep 8 geslaagd!]]></title>
+            <link>https://scribo-potato.github.io/groep8geslaagd</link>
+            <guid>https://scribo-potato.github.io/groep8geslaagd</guid>
+            <pubDate>Wed, 12 Jul 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Op wel bijna alle basisscholen van Nederland is groep 8 officieel geslaagd! Op 22 augustus gaan de kinderen in groep 8 naar de middelbare school.]]></description>
+            <content:encoded><![CDATA[<p>Op wel bijna alle basisscholen van Nederland is groep 8 officieel geslaagd! Op 22 augustus gaan de kinderen in groep 8 naar de middelbare school.
+<img loading="lazy" alt="groep8 geslaagd - Copyright 2023 Scribo Potato" src="/assets/images/groep8-7659e7167a11aff6a62ce99ba4f98c65.png" width="2388" height="1668" class="img_ev3q"></p><h3 class="anchor anchorWithStickyNavbar_LWe7" id="nat">Nat<a href="#nat" class="hash-link" aria-label="Direct link naar Nat" title="Direct link naar Nat">​</a></h3><p>Na school worden de kinderen eerst uitgezwaait daarna gaan ze van een enorme stormbaan met zeep van af glijden en ze worden ook nog eens bekogeld door de andere juffen en meesters. De kinderen vinden het geweldig en waren helemaal nat.</p><h3 class="anchor anchorWithStickyNavbar_LWe7" id="borreltje">Borreltje<a href="#borreltje" class="hash-link" aria-label="Direct link naar Borreltje" title="Direct link naar Borreltje">​</a></h3><p>Volwassenen (vooral de ouders van de kinderen) mogen ’s avonds nog komen kletsen met een borreltje natuurlijk.</p>]]></content:encoded>
+            <category>educatie</category>
+            <category>groep8</category>
+        </item>
         <item>
             <title><![CDATA[Hollandse sashimi]]></title>
             <link>https://scribo-potato.github.io/hollandsesashimi</link>

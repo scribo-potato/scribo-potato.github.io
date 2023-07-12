@@ -2,11 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://scribo-potato.github.io/</id>
     <title>Scribo Potato Blog</title>
-    <updated>2023-07-08T00:00:00.000Z</updated>
+    <updated>2023-07-12T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://scribo-potato.github.io/"/>
     <subtitle>Scribo Potato Blog</subtitle>
     <icon>https://scribo-potato.github.io/img/scribo-potato.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Groep 8 geslaagd!]]></title>
+        <id>https://scribo-potato.github.io/groep8geslaagd</id>
+        <link href="https://scribo-potato.github.io/groep8geslaagd"/>
+        <updated>2023-07-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Op wel bijna alle basisscholen van Nederland is groep 8 officieel geslaagd! Op 22 augustus gaan de kinderen in groep 8 naar de middelbare school.]]></summary>
+        <content type="html"><![CDATA[<p>Op wel bijna alle basisscholen van Nederland is groep 8 officieel geslaagd! Op 22 augustus gaan de kinderen in groep 8 naar de middelbare school.
+<img loading="lazy" alt="groep8 geslaagd - Copyright 2023 Scribo Potato" src="/assets/images/groep8-7659e7167a11aff6a62ce99ba4f98c65.png" width="2388" height="1668" class="img_ev3q"></p><h3 class="anchor anchorWithStickyNavbar_LWe7" id="nat">Nat<a href="#nat" class="hash-link" aria-label="Direct link naar Nat" title="Direct link naar Nat">​</a></h3><p>Na school worden de kinderen eerst uitgezwaait daarna gaan ze van een enorme stormbaan met zeep van af glijden en ze worden ook nog eens bekogeld door de andere juffen en meesters. De kinderen vinden het geweldig en waren helemaal nat.</p><h3 class="anchor anchorWithStickyNavbar_LWe7" id="borreltje">Borreltje<a href="#borreltje" class="hash-link" aria-label="Direct link naar Borreltje" title="Direct link naar Borreltje">​</a></h3><p>Volwassenen (vooral de ouders van de kinderen) mogen ’s avonds nog komen kletsen met een borreltje natuurlijk.</p>]]></content>
+        <author>
+            <name>Fred Henk</name>
+            <uri>https://scribo-potato.github.io</uri>
+        </author>
+        <category label="educatie" term="educatie"/>
+        <category label="groep8" term="groep8"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hollandse sashimi]]></title>
         <id>https://scribo-potato.github.io/hollandsesashimi</id>

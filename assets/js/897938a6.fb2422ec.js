@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkscribo_potato_github_io=self.webpackChunkscribo_potato_github_io||[]).push([[735],{8791:t=>{t.exports=JSON.parse('{"label":"groep8","permalink":"/tags/groep-8","allTagsPath":"/tags","count":1}')}}]);
