@@ -2,11 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://scribo-potato.github.io/</id>
     <title>Scribo Potato Blog</title>
-    <updated>2023-07-12T00:00:00.000Z</updated>
+    <updated>2023-07-16T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://scribo-potato.github.io/"/>
     <subtitle>Scribo Potato Blog</subtitle>
     <icon>https://scribo-potato.github.io/img/scribo-potato.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Vakantie]]></title>
+        <id>https://scribo-potato.github.io/vakantie</id>
+        <link href="https://scribo-potato.github.io/vakantie"/>
+        <updated>2023-07-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Het is eindelijk al vakantie, na een jaar zit het schooljaar er weer op.]]></summary>
+        <content type="html"><![CDATA[<p>Het is eindelijk al vakantie, na een jaar zit het schooljaar er weer op.
+In onze vorige blog kon je lezen hoe de meeste basisscholen groep 8 uitzwaaiden.</p><h3 class="anchor anchorWithStickyNavbar_LWe7" id="weekend">Weekend<a href="#weekend" class="hash-link" aria-label="Direct link naar Weekend" title="Direct link naar Weekend">​</a></h3><p>Nou eigenlijk is het nog geen vakantie, het is nog weekend en dat noem je normaal gesproken geen vakantie. Een weekend en een vakantie zijn namelijk niet hetzelfde. Een weekend is gewoon 2 dagen vrij van school of werk. Maar een vakantie duurt een paar weken ofzo.</p><h3 class="anchor anchorWithStickyNavbar_LWe7" id="op-vakantie">Op vakantie<a href="#op-vakantie" class="hash-link" aria-label="Direct link naar Op vakantie" title="Direct link naar Op vakantie">​</a></h3><p>Er gaan gemiddeld 11 miljoen Nederlanders op vakantie tijdens de zomervakantie, dat is negen van de tien mensen in Nederland. En nog een leuk weetje: er gaan deze tijd minder mensen naar vliegveld Schiphol want het is daar heel erg druk. Soms moet je uren in de rij staan en dat vinden bijna geen mensen leuk. Ja je hoort het goed BIJNA geen mensen, er bestaan serieus ECHT mensen die het leuk vinden om in de rij te staan. Ik zou het alleen leuk vinden als ik een boek of een spel mee had.</p><h3 class="anchor anchorWithStickyNavbar_LWe7" id="vakantie-weetjes">Vakantie weetjes<a href="#vakantie-weetjes" class="hash-link" aria-label="Direct link naar Vakantie weetjes" title="Direct link naar Vakantie weetjes">​</a></h3><p>48% van Nederlanders gebruiken vakantiegeld voor op vakantie. En
+vrouwen nemen soms wel 63 kledingstukken mee op vakantie, mannen nemen er maar 29 mee. Vrouwen nemen soms wel ongeveer 31 kilo mee aan kleren! En heb je soms wel last van vakantiestress? Wist je dat 4 op de tien mensen in Nederland er last van hebben? Soms vergeten ze zelfs hun spullen.</p>]]></content>
+        <author>
+            <name>Fred Henk</name>
+            <uri>https://scribo-potato.github.io</uri>
+        </author>
+        <category label="vakantie" term="vakantie"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Groep 8 geslaagd!]]></title>
         <id>https://scribo-potato.github.io/groep8geslaagd</id>
