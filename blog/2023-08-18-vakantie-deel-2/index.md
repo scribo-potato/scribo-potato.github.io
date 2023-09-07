@@ -12,7 +12,7 @@ Mensen houden van vakantie. Ik zelf eigenlijk ook een klein beetje. En daardoor 
 Je vraagt jezelf misschien vaak af waar mensen het meeste naartoe gaan in de vakantie, nou hier is een top 7
 #### #1 Duitsland
 Duitsland is een groot land naast ons kleine kikkerlandje. Een land met grote steden en prachtige natuurgebieden. 
-#### # 2 Frankrijk
+#### #2 Frankrijk
 Stokbrood, wijn en zon. Dat zijn denk ik wel een aantal dingen waar veel mensen aan denken bij Frankrijk. 
 #### #3 Spanje
 In 2017 bezochten maar liefst 3,6 miljoen ! Nederlandse toeristen het Spaanse land. Plekken die vaak bezocht worden zijn Barcelona, de Canarische Eilanden en Andalusië. 
