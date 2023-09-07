@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkscribo_potato_github_io=self.webpackChunkscribo_potato_github_io||[]).push([[913],{9276:a=>{a.exports=JSON.parse('{"label":"vakantie","permalink":"/tags/vakantie","allTagsPath":"/tags","count":1}')}}]);
