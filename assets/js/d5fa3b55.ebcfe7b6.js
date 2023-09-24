@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkscribo_potato_github_io=self.webpackChunkscribo_potato_github_io||[]).push([[77],{5985:t=>{t.exports=JSON.parse('{"label":"tornado","permalink":"/tags/tornado","allTagsPath":"/tags","count":1}')}}]);

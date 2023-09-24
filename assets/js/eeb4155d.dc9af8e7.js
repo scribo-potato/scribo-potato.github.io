@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkscribo_potato_github_io=self.webpackChunkscribo_potato_github_io||[]).push([[441],{9045:t=>{t.exports=JSON.parse('{"label":"educatie","permalink":"/tags/educatie","allTagsPath":"/tags","count":1}')}}]);

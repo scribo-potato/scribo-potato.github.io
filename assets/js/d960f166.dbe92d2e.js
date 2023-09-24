@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkscribo_potato_github_io=self.webpackChunkscribo_potato_github_io||[]).push([[423],{6107:t=>{t.exports=JSON.parse('{"permalink":"/tags/e-sigaretten","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://scribo-potato.github.io/</id>
     <title>Scribo Potato Blog</title>
-    <updated>2023-09-18T00:00:00.000Z</updated>
+    <updated>2023-09-24T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://scribo-potato.github.io/"/>
     <subtitle>Scribo Potato Blog</subtitle>
     <icon>https://scribo-potato.github.io/img/scribo-potato.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Atlantis]]></title>
+        <id>https://scribo-potato.github.io/Atlantis</id>
+        <link href="https://scribo-potato.github.io/Atlantis"/>
+        <updated>2023-09-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Atlantis zou een gezonken stad zijn voor de Spaanse kust, ten noorden van de stad Cádiz en in de buurt van het nationale park Doñana.]]></summary>
+        <content type="html"><![CDATA[<p>Atlantis zou een gezonken stad zijn voor de Spaanse kust, ten noorden van de stad Cádiz en in de buurt van het nationale park Doñana.
+<img loading="lazy" alt="atlantis - Copyright 2023 Scribo Potato" src="/assets/images/atlantis-a5a8988a54cd81f9f9b0910089abb5bb.png" width="1711" height="1152" class="img_ev3q"></p><h3 class="anchor anchorWithStickyNavbar_LWe7" id="bestaat-atlantis">Bestaat Atlantis?<a href="#bestaat-atlantis" class="hash-link" aria-label="Direct link naar Bestaat Atlantis?" title="Direct link naar Bestaat Atlantis?">​</a></h3><p>Het korte antwoord is: nee ik denk niet dat het echt bestaat want er zijn heel weinig plaatjes van Atlantis en sommige zien er nep uit of komen uit films. Atlantis is een Griekse mythe waarvan er mensen geloofden dat het verhaal echt is. Wil je weten wat de legende is? Lees dan het kopje hieronder. </p><h3 class="anchor anchorWithStickyNavbar_LWe7" id="de-legende">De legende<a href="#de-legende" class="hash-link" aria-label="Direct link naar De legende" title="Direct link naar De legende">​</a></h3><p>Er zou een keer een stad zijn die heel mooi was maar niet echt erg stevig. De koning was rijk, mensen waren gelukkig maar de muren waren instabiel, dat betekent dat de muren niet stevig waren. Maar op een dag kwam er een enorme golf die zorgde ervoor dat er heel veel                  schade kwam. Daardoor stortte de stad in en kreeg de naam: Atlantis</p><h3 class="anchor anchorWithStickyNavbar_LWe7" id="conclusie">Conclusie<a href="#conclusie" class="hash-link" aria-label="Direct link naar Conclusie" title="Direct link naar Conclusie">​</a></h3><ol><li>Atlantis bestaat NIET.</li><li>Atlantis is een legende (een mythe).</li><li>Er is geen bewijs.</li><li>En ik heb honger (maar dat heeft er niks mee te maken).</li></ol><p>En nu een kleine mededeling, ik wil deze sites heel erg bedanken voor de vele informatie en goede uitleg. (dit betekent NIET dat ik informatie heb gestolen hoor, gewoon bedankt!)</p><h3 class="anchor anchorWithStickyNavbar_LWe7" id="referenties">Referenties<a href="#referenties" class="hash-link" aria-label="Direct link naar Referenties" title="Direct link naar Referenties">​</a></h3><ul><li><a href="https://mass.cultureelerfgoed.nl/" target="_blank" rel="noopener noreferrer">Mass.cultureelerfgoed.nl</a></li><li><a href="https://isgeschiedenis.nl/" target="_blank" rel="noopener noreferrer">Isgeschiedenis.nl</a></li></ul>]]></content>
+        <author>
+            <name>Fred Henk</name>
+            <uri>https://scribo-potato.github.io</uri>
+        </author>
+        <category label="Atlantis" term="Atlantis"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[E-sigaretten (vape)]]></title>
         <id>https://scribo-potato.github.io/E-sigaretten</id>
